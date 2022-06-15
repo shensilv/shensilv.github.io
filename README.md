@@ -12,7 +12,7 @@ My project title is officially "Harnessing genome characterisation to uncover di
 
 For my work on enrichment analysis and integration of multi-omics data, look [here](enrichment.md)
 
-## [Publications](publications.md)
+### [Publications](publications.md)
 
 ## Previous research
 
