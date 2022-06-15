@@ -16,7 +16,7 @@ Lovell-Read, Francesca A., Shen, Silvia, Thompson, Robin. “Estimating Local Ou
 
 ## Previous research
 
-[### Masters research projects](masters)
+[### Masters research projects](masters.md)
 
 ### Undergraduate research projects
 
