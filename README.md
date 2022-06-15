@@ -14,11 +14,7 @@ Statistical genetics:
 
 [### Masters research projects](masters.md)
 
-### Undergraduate research projects
-
-Epidemiology:
-
-*Using meta-population models to determinee the probability of a major outbreak of infectious disease*
+[### Undergraduate research projects](undergraduate.md)
 
 ## Some fun things
 
