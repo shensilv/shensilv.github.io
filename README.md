@@ -4,9 +4,9 @@ I am a PhD student in quantitative population genetics, studying the subject fro
 
 ## Current research
 
-Statistical genetics:
+My project title is officially "Harnessing genome characterisation to uncover disease mechanisms". This is a very vague title, but at the moment I am looking at functional characterisation of GWAS hits, specifically integrating different omics data using enrichment analysis (permutations, bootstrap) and trying to find something out about the disease. How I will do the latter is unclear - there is lots of work on networks and interesting pathway analysis. 
 
-*Harnessing structural genome characterisation to uncover disease mechanisms*
+For my work on enrichment analysis and integration of multi-omics data, look [here](enrichment.md)
 
 ## [Publications](publications.md)
 
