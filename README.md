@@ -8,13 +8,13 @@ Statistical genetics:
 
 *Harnessing structural genome characterisation to uncover disease mechanisms*
 
-[## Publications](publications.md)
+## [Publications](publications.md)
 
 ## Previous research
 
-[### Masters research projects](masters.md)
+### [Masters research projects](masters.md)
 
-[### Undergraduate research projects](undergraduate.md)
+### [Undergraduate research projects](undergraduate.md)
 
 ## Some fun things
 
