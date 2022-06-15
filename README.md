@@ -1,8 +1,8 @@
 # Silvia Shen personal website - Welcome to my page 
 
-Twitter: [{{ site.twitter }}]({{ site.twitter }})
-
 I am a PhD student in quantitative population genetics of complex traits, studying the subject from a mathematical/statistical perspective. I received my MMathPhil from the Universtiy of Oxford in 2021 and am now at the University of Edinburgh. I am interested in mathematical genetics, bioinformatics and combining maths, statistics and computational theory to develop insights in biology. This page is to document some research and other interesting personal projects.
+
+Follow me on [Twitter]({{ site.twitter }}) or [email]({{ site.email }}) me.
 
 ## Current research
 
