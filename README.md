@@ -35,5 +35,5 @@ Epidemiology:
 ## Some fun things
 
 *Here are some fun side projects I am working on :)*
-
+[Projects page](side_projects.md)
 
